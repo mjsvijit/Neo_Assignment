@@ -1,0 +1,16 @@
+.maindiv{
+    width:250px;
+    height:230px;
+    border: 1px solid rgb(149, 14, 14);
+    margin-left: 50px;
+    margin-top: 40px;
+    background-color: rgb(53, 189, 189);
+    overflow-y: scroll;
+   
+  
+}
+.list{
+    text-align: left;
+    margin-left: -10px;
+
+}

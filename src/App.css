@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  height:309px;
+  border: 2px solid rgb(255, 51, 0);
+}
+
+.vl {
+  border-left: 6px solid rgb(255, 121, 11);
+  height: 260px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+}
+
